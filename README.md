@@ -1,1 +1,1 @@
-# DPP-Attention_Grid-Cell-Code
+# Code the eLife paper -  https://elifesciences.org/reviewed-preprints/89911
